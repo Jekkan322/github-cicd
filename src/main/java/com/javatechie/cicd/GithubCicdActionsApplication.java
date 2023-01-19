@@ -18,7 +18,7 @@ public class GithubCicdActionsApplication {
 //	git init
 //	git add README.md
 //	git commit -m "first commit"
-//	git branch -M main
+//	git branch -M master
 //	git remote add origin https://github.com/Jekkan322/github-cicd.git
 //	git push -u origin main
 	public static void main(String[] args) {
